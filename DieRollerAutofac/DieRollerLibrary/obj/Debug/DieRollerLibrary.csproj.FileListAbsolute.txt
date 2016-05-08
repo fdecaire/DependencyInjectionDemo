@@ -1,0 +1,5 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerLibrary\bin\Debug\DieRollerLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerLibrary\bin\Debug\DieRollerLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerLibrary\obj\Debug\DieRollerLibrary.csprojResolveAssemblyReference.cache
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerLibrary\obj\Debug\DieRollerLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerLibrary\obj\Debug\DieRollerLibrary.pdb

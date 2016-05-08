@@ -1,0 +1,14 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\DieRollerAutofac.exe.config
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\DieRollerAutofac.exe
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\DieRollerAutofac.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\Autofac.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\DieRollerLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\DieRollerLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\Autofac.xml
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\obj\Debug\DieRollerAutofac.csprojResolveAssemblyReference.cache
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\obj\Debug\DieRollerAutofac.exe
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\obj\Debug\DieRollerAutofac.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\Container.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\GameLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\GameLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerAutofac\bin\Debug\Container.pdb

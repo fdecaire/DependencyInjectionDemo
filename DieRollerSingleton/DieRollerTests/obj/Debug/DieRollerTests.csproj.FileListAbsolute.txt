@@ -1,0 +1,8 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\bin\Debug\DieRollerTests.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\bin\Debug\DieRollerTests.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\bin\Debug\GameLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\bin\Debug\GameLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\obj\Debug\DieRollerTests.csprojResolveAssemblyReference.cache
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\obj\Debug\DieRollerTests.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerTests\obj\Debug\DieRollerTests.pdb

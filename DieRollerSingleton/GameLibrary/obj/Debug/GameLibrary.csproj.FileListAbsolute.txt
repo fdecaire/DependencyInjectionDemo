@@ -1,0 +1,5 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\GameLibrary\bin\Debug\GameLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\GameLibrary\bin\Debug\GameLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\GameLibrary\obj\Debug\GameLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\GameLibrary\obj\Debug\GameLibrary.pdb

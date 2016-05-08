@@ -1,0 +1,6 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerSingleton\bin\Debug\DieRollerSingleton.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerSingleton\bin\Debug\GameLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerSingleton\bin\Debug\GameLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerSingleton\obj\Debug\DieRollerSingleton.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerSingleton\bin\Debug\DieRollerSingleton.exe
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerSingleton\DieRollerSingleton\obj\Debug\DieRollerSingleton.exe

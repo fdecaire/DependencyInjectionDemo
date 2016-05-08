@@ -1,0 +1,14 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\DieRollerTests.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\DieRollerTests.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\Autofac.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\DieRollerLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\GameLibrary.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\Container.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\DieRollerLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\GameLibrary.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\Autofac.xml
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\bin\Debug\Container.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\obj\Debug\DieRollerTests.csprojResolveAssemblyReference.cache
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\obj\Debug\DieRollerTests.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\DieRollerTests\obj\Debug\DieRollerTests.pdb

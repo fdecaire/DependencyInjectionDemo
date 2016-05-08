@@ -1,0 +1,6 @@
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\IOCContainer\bin\Debug\Container.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\IOCContainer\bin\Debug\Container.pdb
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\IOCContainer\bin\Debug\Autofac.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\IOCContainer\bin\Debug\Autofac.xml
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\IOCContainer\obj\Debug\Container.dll
+c:\users\fdecaire\documents\visual studio 2015\Projects\DieRollerAutofac\IOCContainer\obj\Debug\Container.pdb
